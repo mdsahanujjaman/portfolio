@@ -185,7 +185,7 @@ function App() {
                 <div className="absolute inset-0 z-20 pointer-events-none bg-gradient-to-b from-transparent via-primary/5 to-transparent h-1/2 w-full animate-scanline opacity-30"></div>
 
                 <img
-                  src="/profile.jpg"
+                  src="/profile.png"
                   alt="Md Sahanujjaman"
                   className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 contrast-110"
                 />
